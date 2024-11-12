@@ -66,8 +66,7 @@ public class shapes {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-	System.out.println("Aaryan Prakash");
-        System.out.println("Enter length and width for Rectangle:");
+	System.out.println("Enter length and width for Rectangle:");
 
         int length = in.nextInt();
         int width = in.nextInt();
