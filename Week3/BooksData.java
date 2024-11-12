@@ -25,8 +25,7 @@ class Book {
 
 public class BooksData {
     public static void main(String[] args) {
-	System.out.println("Aaryan Prakash");
-        Scanner s = new Scanner(System.in); 
+	Scanner s = new Scanner(System.in); 
 
         System.out.print("Enter the Number of Books: ");
         int n = s.nextInt(); 
