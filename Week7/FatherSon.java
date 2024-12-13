@@ -49,7 +49,7 @@ public class FatherSon {
         } catch (WrongAge e){
             System.out.println("Exception: " + e.getMessage());
         }
-
+        System.out.println("J S AMOGH KRISHNA 1BM23CS029");
         scanner.close();
     }
 }
