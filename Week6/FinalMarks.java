@@ -51,7 +51,7 @@ public class FinalMarks {
                 System.out.println("Course " + (j + 1) + " Final Mark: " + finalMark);
             }
         }
-
+        System.out.println("J S AMOGH KRISHNA 1BM23CS029");
         scanner.close();
     }
 }
