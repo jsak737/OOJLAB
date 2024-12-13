@@ -28,7 +28,7 @@ public class ThreadExample {
     public static void main(String[] args) {
         CollegeThread collegeThread = new CollegeThread();
         CSEThread cseThread = new CSEThread();
-
+        System.out.println("J S AMOGH KRISHNA 1BM23CS029");
         collegeThread.start();
         cseThread.start();
     }
